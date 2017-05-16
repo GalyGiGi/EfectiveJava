@@ -6,7 +6,9 @@ package cn.com.lbb.effectjava.Enum;
 
 public enum Beer {
     WHITE_BEER(13.5f, 5.8f),
-    PINK_KILLER(8.3f, 14.3f);
+    PINK_KILLER(8.3f, 14.3f),
+    DUUE(4.8f, 28f),
+    BLACK_BEER(3.9f, 8.4f);
     private final float alcoholDegree, wortDegree;
 
     Beer(float alcoholDegree, float wortDegree) {
