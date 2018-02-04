@@ -1,4 +1,4 @@
-package cn.com.lbb.effectjava.SerializeAndSingleTon;// Broken singleton - has nontransient object reference field! - Page 309
+package cn.com.lbb.effectjava.Item77;// Broken singleton - has nontransient object reference field! - Page 309
 
 import java.util.*;
 import java.io.*;

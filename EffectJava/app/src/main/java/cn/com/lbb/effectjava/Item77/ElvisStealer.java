@@ -1,4 +1,4 @@
-package cn.com.lbb.effectjava.SerializeAndSingleTon;// "Stealer" class - Page 310
+package cn.com.lbb.effectjava.Item77;// "Stealer" class - Page 310
 
 import java.io.*;
 

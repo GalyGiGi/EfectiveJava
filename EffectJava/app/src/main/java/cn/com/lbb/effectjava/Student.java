@@ -10,7 +10,10 @@ public class Student {
         return super.equals(o);
     }
 
-    private Student(){
+    public Student(){
+
+    }
+    public void talk(){
 
     }
 }

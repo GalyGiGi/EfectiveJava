@@ -1,4 +1,4 @@
-package cn.com.lbb.effectjava.SerializeAndSingleTon;// Stealer attack program, produces two distinct Elvis instances! - Page 310
+package cn.com.lbb.effectjava.Item77;// Stealer attack program, produces two distinct Elvis instances! - Page 310
 
 import java.io.*;
 
